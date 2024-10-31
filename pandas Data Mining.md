@@ -1,5 +1,23 @@
 Skills:
-[toc]
+- [Iterate by row](#Iterate-by-row)
+- [Append row to dataframe](#Append-row-to-dataframe)
+- [Get value from column based on value from another column](#Get-value-from-column-based-on-value-from-another-column)
+- [Get not intersection values of 2 lists](#Get-not-intersection-values-of-2-lists)
+- [Sort table based on column values](#Sort-table-based-on-column-values)
+- [Filter table based on length of values in column](#Filter-table-based-on-length-of-values-in-column)
+- [Update column value while iterating](#Update-column-value-while-iterating)
+- [Regex for data filtering](#Regex-for-data-filtering)
+- [Check that string begins with certain character](#Check-that-string-begins-with-certain-character)
+- [Drop rows of table with duplicates in certain column](#Drop-rows-of-table-with-duplicates-in-certain-column)
+- [Get max from column](#Get-max-from-column)
+- [Check if value is null/empty](#Check-if-value-is-null/empty)
+- [Filter for column values between certain range](#Filter-for-column-values-between-certain-range)
+- [Count groups in columns of table](#Count-groups-in-columns-of-table)
+- [Aggregation](#Aggregation)
+- [Merging tables](#Merging-tables)
+- [Count number of each value in specific column](#Count-number-of-each-value-in-specific-column)
+- [Efficiency](#Efficiency)
+
 <br>
 
 ### Iterate by row
