@@ -2,7 +2,7 @@ Skills:
 - [main function](#main-function)
 - [cout](#cout)
 - [arrows](#arrows)
-- [if/else](#if-else)
+- [if/else](#ifelse)
 - [Random generator](#random-generator)
 - [Logical operator short-circuit evaluation](#logical-operator-short-circuit-evaluation)
 - [Input auto-conversion](#input-auto-conversion)
